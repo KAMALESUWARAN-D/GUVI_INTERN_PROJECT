@@ -1,0 +1,9 @@
+localhost :XAMPP(Apache,MySQL)
+Editor : Visual Stdio Code
+Browser : Microsoft Edge
+
+
+Frondend : HTML,CSS,JAVASCRIPT
+Backend  : PHP
+Database Connection:SQL
+Database Management:phpMyAdmin
